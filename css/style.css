@@ -1,0 +1,30 @@
+.header{
+    background-color: blue;
+    height:60px;
+    text-align:center;
+}
+h2{
+    padding:15px;
+}
+.items{
+    background-color:greenyellow;
+    display:flex;
+    justify-content:space-evenly;
+}
+.icons{
+    display:flex;
+    justify-content:space-evenly;
+}
+.names{
+    display:flex;
+    font:bold;
+}
+.name1{
+    padding-left:320px;
+}
+.name2{
+    padding-left:395px;
+}
+.name3{
+    padding-left:395px;
+}
